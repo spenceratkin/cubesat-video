@@ -1,0 +1,4 @@
+*.h264
+*.vblock
+venv/
+*.swp
